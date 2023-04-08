@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64950555fa0df964c80fdfdcbe1e1438, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  Monster_Count: 1
+  PrizeItem_Count: 10
+  BaseItem_Count: 20
+  PlayerBaseSpeed: 6
+  Survival_Time: 10
+  BaseIntegral: 40
+  playerData:
+    Name: 
+    CurrentHP: 100
+    MaxHP: 100
+    CurrentMP: 100
+    MaxMP: 100
+    Integral: 0
+    Die: 0
